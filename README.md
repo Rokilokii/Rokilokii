@@ -8,13 +8,13 @@
         alt="LinkedIn Badge"
       />
     </a>
-    <a href="your-youtube-URL">
+    <a href="your-telegram-URL">
       <img
         src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram"
         alt="Telegram Badge"
       />
     </a>
-    <a href="your-twitter-URL">
+    <a href="https://vk.com/id63094483">
       <img
         src="https://img.shields.io/badge/-Vkontakte-blue?style=for-the-badge&logo=Vk"
         alt="Vk Badge"
