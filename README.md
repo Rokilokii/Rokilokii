@@ -8,7 +8,7 @@
         alt="LinkedIn Badge"
       />
     </a>
-    <a href="your-telegram-URL">
+    <a href="https://t.me/Rokilokii">
       <img
         src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram"
         alt="Telegram Badge"
