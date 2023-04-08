@@ -32,7 +32,7 @@
 
 ### 👨‍💻 About Me :
 
-- 🌱 I’m currently learning Web3
+- 🌱 I’m currently learning React
 - 🌍 I speak Russian, English
 - ⚡ In my free time, I try to solve problems on GeeksforGeeks
 - 📫 How to reach me: [email](mailto:egorwow2@gmail.com)
